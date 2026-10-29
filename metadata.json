@@ -1,0 +1,5 @@
+{
+  "name": "DSA Tutor AI",
+  "description": "Virtual assistant for learning Data Structures & Algorithms using Gemini 3.0 Pro, tailored for Engineering students.",
+  "requestFramePermissions": []
+}
